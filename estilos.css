@@ -1,0 +1,48 @@
+*{
+
+ margin: 0%;
+ padding: 0%;
+ box-sizing: 0%;
+
+}
+
+.containers{
+    display: flex;
+height: 1000px;
+width:  10000px;
+background-color: rgb(255, 0, 242);
+
+}
+.box1{
+    height: 300px;
+    width: 300px;
+    background-color: chartreuse;
+    border-style: dotted;
+    margin: 3px;
+    padding: 10px;
+    border-radius: 20px;
+
+
+}
+
+.box2{
+    height: 300px;
+width: 300px;
+background-color: crimson;
+border-style: initial;
+margin: 10px;
+padding: 12px;
+border-radius: 20px;
+}
+
+.box3{
+    height: 300px;
+    width: 300px;
+    background-color: darkorange;
+    border-style: double;
+    margin: 10px;
+    padding: 13px;
+    border-radius: 20px;
+
+
+}
